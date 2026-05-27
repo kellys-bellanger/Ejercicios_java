@@ -39,7 +39,7 @@ public class Main {
             System.out.println("----------------------------------------");
         }
 
-        System.out.println("\nLa cola del banco está vacía.");
+        System.out.println("\nLa cola del banco está vacia.");
     }
 }
 
