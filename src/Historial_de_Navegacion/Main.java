@@ -2,6 +2,7 @@ package Historial_de_Navegacion;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
